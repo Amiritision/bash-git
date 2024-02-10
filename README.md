@@ -1,2 +1,2 @@
 # bash-git
-Zadanie z ćwiczeń programowania
+Zadanie z ćwiczeń programowania.
